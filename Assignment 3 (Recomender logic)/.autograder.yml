@@ -1,0 +1,6 @@
+version: "1"
+language: "python3"
+execute: "assignment-3"
+max_per_day: 3
+branch: "test"
+checksum: "46bf4e3fc47f5bee7e2b460c3bc9b5b8eccfb960dfd3509adef123999ae78978"

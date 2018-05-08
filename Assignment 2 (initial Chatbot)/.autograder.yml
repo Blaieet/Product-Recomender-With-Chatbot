@@ -1,0 +1,6 @@
+version: "1"
+language: "telegram"
+execute: "assignment-2"
+max_per_day: 3
+branch: "test"
+checksum: "98cca323726cc4caba15289d6a7882c9751b330459309b64b6967eee13b6591b"
